@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #242943;
+		background: #605040;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3641,7 +3641,7 @@ input, select, textarea {
 		}
 
 		#banner.style2:after {
-			background-color: #52452c;
+			background-color: #a67f5f;
 		}
 
 		#banner.style3:after {
@@ -3736,6 +3736,7 @@ input, select, textarea {
 
 	#main {
 		background: #5b4635;
+		background-color: #5b4635;
 	}
 
 		#main > * {
