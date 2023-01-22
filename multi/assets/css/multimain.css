@@ -86,7 +86,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
+	font:inherit;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -240,8 +240,7 @@ input, select, textarea {
 		font-weight: 300;
 		letter-spacing: 0.1em;
 		line-height: 1.5;
-		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		margin: 0 0 0 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1377,7 +1376,7 @@ input, select, textarea {
 			-webkit-transition: opacity 0.5s ease, visibility 0.5s;
 			-ms-transition: opacity 0.5s ease, visibility 0.5s;
 			transition: opacity 0.5s ease, visibility 0.5s;
-			background: rgba(36, 38, 41, 0.5);
+			background: #5b4635;
 			content: '';
 			display: block;
 			height: 100%;
@@ -1391,7 +1390,7 @@ input, select, textarea {
 		}
 
 			body.ie #wrapper:after {
-				background: rgba(36, 38, 41, 0.8);
+				background: #5b4635;
 			}
 
 		body.modal-active #wrapper {
@@ -1547,7 +1546,7 @@ input, select, textarea {
 						}
 
 						#header nav > ul > li a.active {
-							background-color: #242629;
+							background-color: #5b4635;
 						}
 
 	@media screen and (max-width: 736px) {
